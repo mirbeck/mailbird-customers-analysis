@@ -1,0 +1,892 @@
+Customer	ESP	Sex	Age	Account	Revenue	Activated
+0	zoho	male	40	4	7.25	No
+1	gmail	female	56	4	71.2833	Yes
+1	zoho	female	44	2	7.925	No
+1	gmail	female	53	4	53.1	No
+0	zoho	male	53	2	8.05	No
+0	zoho	male	18	2	8.4583	
+0	gmail	male	72	2	51.8625	No
+0	zoho	male	20	1	21.075	No
+1	zoho	female	45	2	11.1333	No
+1	yahoo	female	32	4	30.0708	Yes
+1	zoho	female	22	4	16.7	No
+1	gmail	female	76	2	26.55	No
+0	zoho	male	38	2	8.05	No
+0	zoho	male	57	4	31.275	No
+0	zoho	female	32	2	7.8542	No
+1	yahoo	female	73	2	16	No
+0	zoho	male	20	4	29.125	
+1	yahoo	male	18	2	13	No
+0	zoho	female	49	4	18	No
+1	zoho	female	18	2	7.225	Yes
+0	yahoo	male	53	2	26	No
+1	yahoo	male	52	2	13	No
+1	zoho	female	33	2	8.0292	
+1	gmail	male	46	2	35.5	No
+0	zoho	female	26	1	21.075	No
+1	zoho	female	56	4	31.3875	No
+0	zoho	male	18	2	7.225	Yes
+0	gmail	male	37	1	263	No
+1	zoho	female	18	2	7.8792	
+0	zoho	male	18	2	7.8958	No
+0	gmail	male	58	2	27.7208	Yes
+1	gmail	female	18	4	146.5208	Yes
+1	zoho	female	18	2	7.75	
+0	yahoo	male	84	2	10.5	No
+0	gmail	male	46	4	82.1708	Yes
+0	gmail	male	60	4	52	No
+1	zoho	male	18	2	7.2292	Yes
+0	zoho	male	39	2	8.05	No
+0	zoho	female	36	3	18	No
+1	zoho	female	32	4	11.2417	Yes
+0	zoho	female	58	4	9.475	No
+0	yahoo	female	45	4	21	No
+0	zoho	male	18	2	7.8958	Yes
+1	yahoo	female	21	4	41.5792	Yes
+1	zoho	female	37	2	7.8792	
+0	zoho	male	18	2	8.05	No
+0	zoho	male	18	4	15.5	
+1	zoho	female	18	2	7.75	
+0	zoho	male	18	3	21.6792	Yes
+0	zoho	female	36	4	17.8	No
+0	zoho	male	25	4	39.6875	No
+0	zoho	male	39	2	7.8	No
+1	gmail	female	67	4	76.7292	Yes
+1	yahoo	female	47	4	26	No
+0	gmail	male	83	2	61.9792	Yes
+1	gmail	male	18	2	35.5	No
+1	yahoo	female	39	2	10.5	No
+0	zoho	male		2	7.2292	Yes
+1	yahoo	female	23	4	27.75	No
+0	zoho	male	29	0	46.9	No
+0	zoho	male	40	2	7.2292	Yes
+1	gmail	female	56	2	80	
+0	gmail	male	63	4	83.475	No
+0	zoho	male	22	1	27.9	No
+0	gmail	male	18	2	27.7208	Yes
+1	zoho	male	18	4	15.2458	Yes
+1	yahoo	female	47	2	10.5	No
+0	zoho	male	37	2	8.1583	No
+1	zoho	female	35	4	7.925	No
+0	zoho	male	44	3	8.6625	No
+0	yahoo	male	50	2	10.5	No
+0	zoho	female	34	0	46.9	No
+0	yahoo	male	39	2	73.5	No
+0	zoho	male	44	4	14.4542	Yes
+1	zoho	male	50	2	56.4958	No
+0	zoho	male	43	2	7.65	No
+0	zoho	male	18	2	7.8958	No
+0	zoho	male	18	2	8.05	No
+1	yahoo	male		2	29	No
+1	zoho	female	48	2	12.475	No
+0	zoho	male	40	2	9	No
+1	zoho	male	47	2	9.5	No
+1	zoho	female	18	2	7.7875	
+0	gmail	male	46	2	47.1	No
+1	yahoo	female	35	2	10.5	No
+1	zoho	female	51	1	15.85	No
+0	zoho	male	34	4	34.375	No
+0	zoho	male	18	2	8.05	No
+1	gmail	female	41	1	263	No
+0	zoho	male	42	2	8.05	No
+0	zoho	male	47	2	8.05	No
+0	zoho	male	38	2	7.8542	No
+0	gmail	male	64	4	61.175	No
+0	zoho	male	44	4	20.575	No
+0	zoho	male	77	2	7.25	No
+0	zoho	male	18	2	8.05	No
+0	gmail	male	89	2	34.6542	Yes
+1	gmail	male	41	2	63.3583	Yes
+1	yahoo	female	52	2	23	No
+0	yahoo	male	52	4	26	No
+0	zoho	female	46	2	7.8958	No
+0	zoho	male	18	2	7.8958	No
+0	gmail	male	39	2	77.2875	No
+0	zoho	male	51	2	8.6542	No
+0	zoho	male	55	3	7.925	No
+0	zoho	male	46	2	7.8958	No
+1	zoho	female	39	2	7.65	No
+1	zoho	male	18	2	7.775	No
+0	zoho	male	56	2	7.8958	No
+1	zoho	female	18	4	24.15	
+0	gmail	male	65	2	52	No
+0	zoho	female		4	14.4542	Yes
+0	zoho	male	40	2	8.05	No
+0	zoho	female	38	4	9.825	No
+0	zoho	female	35	2	14.4583	Yes
+0	zoho	male	39	2	7.925	No
+0	zoho	male		2	7.75	
+0	yahoo	male	47	4	21	No
+0	gmail	male	42	2	247.5208	Yes
+0	zoho	female	20	4	31.275	No
+0	yahoo	male	39	3	73.5	No
+0	zoho	male	18	2	8.05	No
+0	yahoo	male		4	30.0708	Yes
+1	yahoo	female		2	13	No
+0	gmail	male	72	2	77.2875	No
+1	zoho	male	30	4	11.2417	Yes
+0	zoho	male	18	2	7.75	
+1	zoho	male	42	2	7.1417	No
+1	zoho	female	18	4	22.3583	Yes
+0	zoho	male	63	2	6.975	No
+0	zoho	male	51	2	7.8958	Yes
+0	zoho	male	38	2	7.05	No
+0	zoho	female	65	4	14.5	No
+1	yahoo	female	47	4	26	No
+0	yahoo	male	43	2	13	No
+0	yahoo	male	41	2	15.0458	Yes
+1	gmail	female	37	2	26.2833	No
+0	gmail	male	55	4	53.1	No
+0	zoho	male	34	2	9.2167	No
+0	gmail	male	42	2	79.2	Yes
+0	zoho	female	18	2	15.2458	Yes
+1	zoho	female	40	2	7.75	No
+1	zoho	female	42	4	15.85	No
+0	zoho	male	37	2	6.75	
+0	yahoo	male	36	2	11.5	No
+0	yahoo	male	37	4	36.75	No
+1	zoho	male	45	2	7.7958	No
+0	zoho	female	27	3	34.375	No
+0	yahoo	male		2	26	No
+0	yahoo	male	60	2	13	No
+0	yahoo	male	69	2	12.525	No
+1	gmail	female	40	4	66.6	No
+0	zoho	male		2	8.05	No
+0	zoho	male		2	14.5	No
+0	zoho	male	18	2	7.3125	No
+0	gmail	male	69	2	61.3792	Yes
+1	zoho	female	34	2	7.7333	
+0	zoho	male	48	2	8.05	No
+0	zoho	male	18	2	8.6625	No
+0	zoho	male	18	0	69.55	No
+0	zoho	male	62	2	16.1	No
+1	yahoo	female	58	2	15.75	No
+0	zoho	male	44	2	7.775	No
+0	zoho	male	35	2	8.6625	No
+0	zoho	male	19	4	39.6875	No
+1	zoho	male	27	2	20.525	No
+1	gmail	female	18	2	55	No
+0	zoho	female	63	4	27.9	No
+0	gmail	male	18	2	25.925	No
+0	zoho	male	46	2	56.4958	No
+0	gmail	male	79	2	33.5	No
+0	zoho	male	22	4	29.125	
+1	zoho	female	19	4	11.1333	No
+0	zoho	male	39	2	7.925	No
+0	gmail	male	74	2	30.6958	Yes
+0	zoho	male	36	4	7.8542	No
+0	zoho	male	18	1	25.4667	No
+0	gmail	female	68	2	28.7125	Yes
+0	yahoo	male	48	2	13	No
+0	zoho	male	54	2	0	No
+0	zoho	female	18	0	69.55	No
+0	yahoo	male	18	2	15.05	Yes
+0	zoho	male	27	4	31.3875	No
+1	yahoo	male	19	3	39	No
+1	zoho	female	22	2	22.025	No
+0	gmail	male	18	2	50	No
+1	zoho	female	18	4	15.5	
+1	gmail	male	63	2	26.55	No
+0	zoho	male	58	4	15.5	
+0	zoho	male	54	2	7.8958	No
+1	yahoo	female	50	2	13	No
+0	yahoo	male	37	2	13	No
+1	zoho	female	37	4	7.8542	No
+1	yahoo	male	21	4	26	No
+1	gmail	female	62	2	27.7208	Yes
+1	gmail	female	76	2	146.5208	Yes
+0	zoho	male	18	2	7.75	
+0	zoho	male	60	2	8.4042	No
+1	zoho	female	18	2	7.75	
+0	yahoo	female	42	2	13	No
+0	zoho	male	46	2	9.5	No
+0	zoho	male	18	0	69.55	No
+0	zoho	male	52	2	6.4958	No
+0	zoho	male		2	7.225	Yes
+1	zoho	male	36	2	8.05	No
+0	zoho	female	20	2	10.4625	No
+0	zoho	male	50	4	15.85	No
+1	zoho	male	44	2	18.7875	Yes
+1	zoho	female	34	2	7.75	
+1	gmail	male	58	2	31	Yes
+0	zoho	male	42	2	7.05	No
+1	yahoo	female	53	2	21	No
+0	zoho	male	40	2	7.25	No
+0	yahoo	male	48	2	13	No
+0	zoho	male	18	4	7.75	
+1	gmail	female	49	4	113.275	Yes
+1	zoho	female	45	2	7.925	No
+0	yahoo	male	60	4	27	No
+1	gmail	female	50	2	76.2917	Yes
+0	yahoo	male	48	2	10.5	No
+1	zoho	male	34	2	8.05	No
+0	yahoo	male	45	2	13	No
+0	zoho	male	69	2	8.05	No
+0	zoho	male	18	2	7.8958	No
+1	gmail	male	56	4	90	No
+0	zoho	male	40	2	9.35	No
+1	yahoo	male	37	2	10.5	No
+0	zoho	male		2	7.25	No
+0	yahoo	male	36	2	13	No
+0	zoho	female	18	1	25.4667	No
+1	gmail	female	53	4	83.475	No
+0	zoho	male	47	2	7.775	No
+0	yahoo	male	77	2	13.5	No
+1	zoho	female	23	4	31.3875	No
+0	yahoo	male	42	2	10.5	No
+0	zoho	female	18	2	7.55	No
+0	yahoo	male	62	4	26	No
+1	yahoo	female	26	2	26.25	No
+0	yahoo	male	37	2	10.5	No
+0	yahoo	male	51	2	12.275	No
+0	zoho	female	18	4	14.4542	Yes
+1	zoho	female	18	4	15.5	
+0	yahoo	male	47	2	10.5	No
+0	zoho	male	40	2	7.125	No
+0	zoho	male	48	2	7.225	Yes
+0	gmail	male	62	3	90	
+0	zoho	female	43	2	7.775	No
+1	yahoo	female	42	2	14.5	No
+1	gmail	male	55	4	52.5542	No
+0	yahoo	male	72	4	26	No
+0	zoho	male	18	2	7.25	No
+0	zoho	female	47	4	10.4625	No
+0	gmail	male	80	2	26.55	No
+0	zoho	male	48	4	16.1	No
+0	zoho	female	59	2	20.2125	No
+1	zoho	female	47	2	15.2458	Yes
+1	gmail	female	18	2	79.2	Yes
+1	gmail	female	48	2	86.5	No
+1	gmail	female	53	2	512.3292	Yes
+1	yahoo	female	68	2	26	No
+0	zoho	male	18	2	7.75	
+1	zoho	male	21	4	31.3875	No
+0	gmail	male	70	4	79.65	No
+0	gmail	male	58	2	0	No
+0	zoho	female	18	2	7.75	
+0	yahoo	male	54	2	10.5	No
+0	zoho	male	34	4	39.6875	No
+1	zoho	male	43	4	7.775	No
+1	gmail	female	76	2	153.4625	No
+1	gmail	female	53	2	135.6333	No
+0	gmail	male	18	2	31	No
+1	zoho	male	43	2	0	No
+1	yahoo	female	59	2	19.5	No
+0	gmail	male	55	2	29.7	Yes
+1	zoho	female	18	2	7.75	
+1	gmail	female	81	4	77.9583	No
+0	zoho	female	63	2	7.75	No
+0	yahoo	male	18	2	0	No
+0	zoho	male	25	4	29.125	
+1	zoho	female	53	4	20.25	No
+0	zoho	male	83	2	7.75	
+0	zoho	male	46	2	7.8542	No
+0	zoho	male	34	2	9.5	No
+1	zoho	male	37	2	8.05	No
+0	gmail	male	18	2	26	No
+0	zoho	male	51	2	8.6625	Yes
+1	zoho	male	48	2	9.5	No
+0	zoho	male	40	2	7.8958	No
+1	yahoo	male	60	2	13	No
+1	zoho	female	40	2	7.75	
+1	gmail	female	44	2	78.85	No
+1	gmail	female	37	4	91.0792	Yes
+0	yahoo	male	54	2	12.875	Yes
+0	zoho	female	42	2	8.85	No
+0	zoho	male	42	2	7.8958	No
+0	gmail	male	18	2	27.7208	Yes
+0	zoho	male		2	7.2292	Yes
+0	gmail	female	20	4	151.55	No
+1	gmail	male	18	2	30.5	No
+1	gmail	female	68	2	247.5208	Yes
+1	zoho	female	18	2	7.75	
+1	zoho	male	18	3	23.25	
+0	zoho	male	37	2	0	No
+1	yahoo	female	18	2	12.35	
+0	zoho	male	18	2	8.05	No
+1	gmail	male		4	151.55	No
+1	gmail	female	18	2	110.8833	Yes
+1	gmail	female	35	4	108.9	Yes
+0	yahoo	male	48	4	24	Yes
+1	gmail	female	48	2	56.9292	Yes
+1	gmail	female	42	2	83.1583	Yes
+1	gmail	female	36	3	262.375	Yes
+0	yahoo	female	44	4	26	No
+0	zoho	male	46	2	7.8958	No
+0	yahoo	male	61	4	26.25	No
+1	zoho	female	44	2	7.8542	No
+1	yahoo	female	42	4	26	No
+0	yahoo	male	72	2	14	No
+1	gmail	female	49	2	164.8667	No
+1	gmail	female	58	4	134.5	Yes
+0	zoho	male	40	2	7.25	No
+0	zoho	male	45	2	7.8958	No
+1	yahoo	female	48	2	12.35	
+1	yahoo	female	40	4	29	No
+0	zoho	male	18	0	69.55	No
+1	gmail	female	54	2	135.6333	Yes
+0	zoho	male	79	2	6.2375	No
+1	yahoo	female	54	2	13	No
+1	zoho	female	49	4	20.525	No
+1	gmail	female	34	2	57.9792	Yes
+1	zoho	female	18	3	23.25	
+0	gmail	male		2	28.5	No
+0	gmail	male	56	2	153.4625	No
+0	zoho	male	34	3	18	No
+1	gmail	female	18	4	133.65	No
+0	zoho	male	18	2	7.8958	No
+0	gmail	male	47	4	66.6	No
+1	gmail	female	59	2	134.5	Yes
+1	zoho	male	63	2	8.05	No
+0	gmail	male	63	2	35.5	No
+1	yahoo	male	20	4	26	No
+1	gmail	female	42	1	263	No
+0	yahoo	male	46	2	13	No
+0	yahoo	male	43	2	13	No
+0	yahoo	male	54	2	13	No
+1	yahoo	female	42	2	13	No
+1	yahoo	female	58	2	13	No
+1	zoho	female	18	4	16.1	No
+1	zoho	male	21	4	15.9	No
+0	zoho	male	60	2	8.6625	No
+0	zoho	male	41	2	9.225	No
+0	gmail	male	18	2	35	No
+0	zoho	male	33	4	7.2292	Yes
+0	zoho	male	43	4	17.8	No
+0	zoho	male	18	2	7.225	Yes
+0	zoho	male	46	2	9.5	No
+1	gmail	female	40	2	55	No
+0	yahoo	female	56	2	13	No
+1	zoho	female	18	2	7.8792	
+1	zoho	female	18	2	7.8792	
+0	zoho	male	58	4	27.9	No
+0	yahoo	male	47	4	27.7208	Yes
+0	zoho	female	63	2	14.4542	Yes
+0	zoho	male	53	2	7.05	No
+0	zoho	male	18	4	15.5	
+0	zoho	male	48	2	7.25	No
+1	gmail	female	78	4	75.25	Yes
+1	zoho	female	18	2	7.2292	Yes
+1	zoho	female	18	2	7.75	
+1	gmail	female	42	2	69.3	Yes
+1	gmail	male	43	4	55.4417	Yes
+0	zoho	male	36	4	6.4958	No
+0	zoho	male	37	2	8.05	No
+0	gmail	male	40	2	135.6333	Yes
+0	zoho	female	21	1	21.075	No
+1	gmail	female	18	4	82.1708	Yes
+1	zoho	female	40	2	7.25	No
+0	gmail	male	45	2	211.5	Yes
+0	zoho	male	38	2	4.0125	Yes
+0	zoho	male	37	2	7.775	No
+1	gmail	female	60	2	227.525	Yes
+1	zoho	female	19	2	15.7417	Yes
+0	zoho	male	50	2	7.925	No
+1	gmail	female	53	4	52	No
+0	zoho	male	18	2	7.8958	No
+0	yahoo	male	36	2	73.5	No
+0	zoho	male	19	0	46.9	No
+1	yahoo	female	54	2	13	No
+0	zoho	male	18	2	7.7292	
+1	yahoo	female	35	2	12	Yes
+1	gmail	male	54	4	120	No
+1	zoho	male	39	2	7.7958	No
+0	zoho	male	46	3	7.925	No
+1	gmail	female	41	4	113.275	Yes
+1	zoho	female	42	2	16.7	No
+0	zoho	male	40	2	7.7958	No
+0	zoho	female	49	2	7.8542	No
+0	yahoo	male	64	2	26	No
+0	yahoo	male	41	2	10.5	No
+1	yahoo	female	46	2	12.65	No
+1	zoho	male	57	2	7.925	No
+0	zoho	male	44	2	8.05	No
+0	zoho	female	39	4	9.825	No
+0	zoho	male	46	4	15.85	No
+0	zoho	female	38	2	8.6625	No
+0	yahoo	male	52	4	21	No
+0	zoho	male	69	2	7.75	No
+1	yahoo	male	21	4	18.75	No
+0	zoho	male	39	2	7.775	No
+0	zoho	female	18	1	25.4667	No
+0	zoho	male	18	2	7.8958	No
+0	zoho	male	18	2	6.8583	
+1	gmail	female	51	4	90	
+0	yahoo	male	18	2	0	No
+1	zoho	male	62	2	7.925	No
+0	zoho	female	18	2	8.05	No
+1	yahoo	female	52	4	32.5	No
+1	yahoo	female	36	2	13	No
+0	yahoo	male	48	2	13	No
+0	zoho	female	28	2	24.15	No
+0	zoho	male	18	2	7.8958	Yes
+0	zoho	male	39	2	7.7333	
+0	zoho	male	47	2	7.875	No
+0	zoho	female	46	4	14.4	No
+0	zoho	male	36	4	20.2125	No
+0	zoho	male	18	2	7.25	No
+1	yahoo	female	46	4	26	No
+1	yahoo	female	37	2	26	No
+0	zoho	male	18	2	7.75	
+1	zoho	male	50	2	8.05	No
+1	gmail	male	46	2	26.55	No
+1	zoho	female	18	4	16.1	No
+1	yahoo	female	60	4	26	No
+0	zoho	male	35	2	7.125	No
+0	gmail	male	68	4	55.9	No
+1	gmail	female	32	4	120	No
+0	zoho	female	39	3	34.375	No
+1	yahoo	female	42	3	18.75	No
+0	gmail	male	82	4	263	No
+0	yahoo	male	49	2	10.5	No
+1	yahoo	female	63	4	26.25	No
+0	zoho	male	38	2	9.5	No
+0	zoho	male	43	4	7.775	No
+1	yahoo	female	46	2	13	No
+1	zoho	male	18	2	8.1125	No
+1	gmail	male	22	2	81.8583	No
+1	yahoo	female	31	2	19.5	No
+1	gmail	male	52	2	26.55	No
+1	zoho	female	23	3	19.2583	Yes
+1	gmail	male	70	2	30.5	No
+0	yahoo	male	54	4	27.75	No
+0	zoho	male	18	4	19.9667	No
+0	gmail	male	48	2	27.75	Yes
+1	gmail	male	67	4	89.1042	Yes
+0	zoho	male	18	2	8.05	No
+1	zoho	male	47	2	7.8958	Yes
+0	gmail	male	83	2	26.55	No
+1	gmail	female	18	4	51.8625	No
+1	yahoo	female	68	2	10.5	No
+0	zoho	male	18	2	7.75	
+1	gmail	male	66	2	26.55	No
+0	zoho	male	52	2	8.05	No
+0	gmail	male	65	2	38.5	No
+0	yahoo	male	66	2	13	No
+0	zoho	male	18	2	8.05	No
+0	zoho	male	56	2	7.05	No
+0	yahoo	male	18	2	0	No
+0	gmail	male	74	2	26.55	No
+0	zoho	male	18	2	7.725	
+1	zoho	female		3	19.2583	Yes
+0	zoho	male	18	2	7.25	No
+0	zoho	male	56	2	8.6625	No
+1	yahoo	female	51	4	27.75	No
+1	yahoo	female	41	2	13.7917	Yes
+0	zoho	female	40	2	9.8375	No
+0	gmail	male	18	2	52	No
+0	yahoo	male	52	4	21	No
+0	zoho	male	47	4	7.0458	No
+0	zoho	male	40	2	7.5208	No
+1	zoho	female	20	2	12.2875	No
+0	zoho	male	27	0	46.9	No
+0	yahoo	male	18	2	0	No
+0	zoho	male	68	2	8.05	No
+1	zoho	female	81	2	9.5875	No
+1	gmail	male	43	4	91.0792	Yes
+0	zoho	female	18	1	25.4667	No
+1	gmail	female	53	4	90	No
+0	gmail	male	76	2	29.7	Yes
+0	zoho	male	48	2	8.05	No
+1	zoho	male	27	4	15.9	No
+0	zoho	male	18	4	19.9667	No
+0	zoho	male	39	2	7.25	No
+0	gmail	male	73	2	30.5	No
+0	gmail	male	89	2	49.5042	Yes
+0	zoho	male	39	2	8.05	No
+0	zoho	male	18	2	14.4583	Yes
+1	gmail	female	72	4	78.2667	Yes
+0	zoho	male	18	2	15.1	No
+0	gmail	female	43	4	151.55	No
+0	zoho	male	42	2	7.7958	No
+0	zoho	male	35	2	8.6625	No
+0	zoho	female	39	2	7.75	
+0	zoho	female	18	2	7.6292	
+0	zoho	female	55	2	9.5875	No
+1	gmail	female	34	2	86.5	No
+0	gmail	male	36	4	108.9	Yes
+1	yahoo	female	51	2	26	No
+1	gmail	male	18	2	26.55	No
+0	zoho	male	46	2	22.525	No
+1	zoho	male	44	2	56.4958	No
+1	zoho	male	47	2	7.75	
+0	zoho	male	18	2	8.05	No
+1	gmail	male	54	2	26.2875	No
+1	gmail	female	72	4	59.4	Yes
+0	zoho	male	42	2	7.4958	No
+0	gmail	male	65	2	34.0208	No
+1	yahoo	female	52	2	10.5	No
+0	zoho	male	18	2	24.15	
+1	yahoo	female	54	4	26	No
+0	zoho	male	50	2	7.8958	No
+1	gmail	female	48	2	93.5	No
+0	zoho	male	40	2	7.8958	No
+0	zoho	male	18	2	7.225	Yes
+1	gmail	female	62	2	57.9792	Yes
+0	zoho	male	18	2	7.2292	Yes
+0	zoho	male		2	7.75	
+1	yahoo	female	68	2	10.5	No
+0	gmail	male	18	2	221.7792	No
+0	zoho	male	57	2	7.925	No
+0	yahoo	male	41	3	11.5	No
+1	yahoo	female	20	4	26	No
+0	zoho	male	18	2	7.2292	Yes
+0	zoho	male	35	4	7.2292	Yes
+1	zoho	female	18	2	22.3583	Yes
+0	zoho	female	48	2	8.6625	No
+1	yahoo	female	25	2	26.25	No
+0	gmail	male	63	2	26.55	No
+1	gmail	female	48	2	106.425	Yes
+0	zoho	male	18	2	14.5	No
+1	gmail	female	40	2	49.5	Yes
+1	gmail	female	54	2	71	No
+0	zoho	female	27	4	31.275	No
+0	zoho	female	29	4	31.275	No
+1	yahoo	male	50	4	26	No
+0	gmail	male	68	4	106.425	Yes
+0	gmail	male	82	2	26	No
+1	yahoo	female	37	4	26	No
+1	yahoo	male	18	2	13.8625	Yes
+0	zoho	male	51	4	20.525	No
+1	yahoo	male	26	4	36.75	No
+1	gmail	male	35	2	110.8833	Yes
+0	yahoo	male	45	2	26	No
+0	zoho	male	18	2	7.8292	
+1	zoho	male	40	2	7.225	Yes
+1	zoho	female	40	2	7.775	No
+0	gmail	male	80	2	26.55	No
+1	gmail	female	66	4	39.6	Yes
+0	gmail	male	18	2	227.525	Yes
+1	gmail	female	57	4	79.65	No
+1	zoho	female	54	4	17.4	No
+0	zoho	male	18	2	7.75	
+0	zoho	male	58	2	7.8958	No
+0	yahoo	male	46	2	13.5	No
+0	zoho	male	18	2	8.05	No
+0	zoho	female	18	2	8.05	No
+0	zoho	male	42	3	24.15	No
+0	zoho	male	37	2	7.8958	No
+0	zoho	female	47	2	21.075	No
+0	zoho	male	18	2	7.2292	Yes
+1	zoho	male	50	2	7.8542	No
+1	yahoo	male	80	2	10.5	No
+1	gmail	female	71	3	51.4792	No
+1	gmail	male	54	2	26.3875	No
+1	zoho	female	18	2	7.75	
+0	zoho	male	34	2	8.05	No
+0	zoho	male	37	2	14.5	No
+1	yahoo	female	52	2	13	No
+1	gmail	female	57	4	55.9	No
+0	zoho	female	18	4	14.4583	Yes
+1	zoho	male	50	2	7.925	No
+1	yahoo	female	43	4	30	No
+1	gmail	female	57	4	110.8833	Yes
+0	yahoo	male	72	2	26	No
+0	gmail	male	54	2	40.125	Yes
+0	zoho	male	18	2	8.7125	Yes
+1	gmail	female	36	2	79.65	No
+0	yahoo	male	65	2	15	No
+1	gmail	male	78	4	79.2	Yes
+0	zoho	male	40	2	8.05	No
+0	zoho	male	18	2	8.05	No
+0	zoho	male	53	2	7.125	No
+1	gmail	female	70	4	78.2667	Yes
+0	zoho	male	65	2	7.25	No
+0	zoho	female	18	2	7.75	
+0	yahoo	male	55	4	26	No
+0	zoho	male	54	4	24.15	No
+1	yahoo	female	18	2	33	No
+0	zoho	male	67	2	0	No
+0	zoho	male	18	2	7.225	Yes
+1	gmail	male	67	4	56.9292	Yes
+1	yahoo	female	42	3	27	No
+0	zoho	male	18	2	7.8958	No
+0	gmail	male	18	2	42.4	No
+0	zoho	male	62	2	8.05	No
+1	gmail	male	53	2	26.55	Yes
+0	zoho	male	54	4	15.55	No
+0	zoho	male	48	2	7.8958	No
+1	gmail	male	45	2	30.5	No
+1	yahoo	female	40	4	41.5792	Yes
+1	gmail	female	58	2	153.4625	No
+0	zoho	female	57	4	31.275	No
+0	zoho	male	18	2	7.05	No
+1	zoho	female	18	4	15.5	
+0	zoho	male	18	2	7.75	
+0	zoho	male	53	2	8.05	No
+1	yahoo	female	42	4	65	No
+0	zoho	male	52	4	14.4	No
+0	zoho	female	44	4	16.1	No
+1	yahoo	female	22	3	39	No
+0	yahoo	male	44	2	10.5	No
+0	zoho	male	45	4	14.4542	Yes
+1	gmail	male	60	4	52.5542	No
+1	zoho	male	38	4	15.7417	Yes
+0	zoho	male	39	2	7.8542	No
+0	zoho	male	39	2	16.1	No
+0	gmail	male	79	2	32.3208	No
+0	yahoo	male	75	2	12.35	
+1	gmail	female	39	2	77.9583	No
+0	zoho	male	44	2	7.8958	No
+0	zoho	male	18	2	7.7333	
+1	gmail	male	98	2	30	No
+0	zoho	male	69	2	7.0542	No
+1	gmail	male	50	2	30.5	Yes
+0	gmail	male	18	2	0	No
+0	zoho	female	27	1	27.9	No
+1	yahoo	female	46	2	13	No
+0	zoho	male	50	2	7.925	No
+0	yahoo	male	49	4	26.25	No
+0	zoho	female	59	2	39.6875	No
+0	zoho	male	18	4	16.1	No
+0	zoho	male	38	2	7.8542	No
+1	gmail	female	42	2	69.3	Yes
+0	zoho	female	20	1	27.9	No
+1	zoho	male	18	2	56.4958	No
+1	zoho	female		3	19.2583	Yes
+1	gmail	male	66	4	76.7292	Yes
+0	zoho	male	37	2	7.8958	No
+1	gmail	male	74	2	35.5	Yes
+0	zoho	male	18	2	7.55	No
+1	zoho	female	41	2	7.55	No
+0	zoho	male	18	2	7.8958	No
+1	yahoo	female	36	2	23	No
+0	zoho	male	39	2	8.4333	No
+1	zoho	female	18	2	7.8292	
+0	zoho	female	36	2	6.75	
+0	yahoo	male	42	3	73.5	No
+0	zoho	male	18	2	7.8958	No
+0	zoho	female	50	4	15.5	
+0	yahoo	male	41	2	13	No
+0	gmail	male	76	2	113.275	Yes
+1	gmail	male	68	3	133.65	No
+0	zoho	male	58	2	7.225	Yes
+0	gmail	male	65	2	25.5875	No
+0	zoho	male	54	2	7.4958	No
+1	zoho	male	38	4	7.925	No
+0	yahoo	male	50	3	73.5	No
+0	yahoo	male	43	2	13	No
+0	zoho	male	18	2	7.775	No
+0	zoho	male	61	2	8.05	No
+1	gmail	female	18	4	52	No
+1	yahoo	female	58	4	39	No
+0	gmail	male	49	4	52	No
+0	yahoo	male	88	2	10.5	No
+1	yahoo	male	49	2	13	No
+0	yahoo	male	18	2	0	No
+0	zoho	male	36	2	7.775	No
+0	zoho	male		2	8.05	No
+1	zoho	female	36	2	9.8417	No
+0	zoho	female	61	4	46.9	No
+1	gmail	male	54	2	512.3292	Yes
+0	zoho	female	18	2	8.1375	
+1	gmail	male	45	2	76.7292	Yes
+0	zoho	male	38	2	9.225	No
+0	zoho	male	32	0	46.9	No
+0	yahoo	male	78	4	39	No
+0	yahoo	male	43	4	41.5792	Yes
+0	zoho	male	32	4	39.6875	No
+0	zoho	male	37	2	10.1708	No
+0	zoho	male	36	2	7.7958	No
+1	gmail	female	33	2	211.3375	No
+1	gmail	male	49	4	57	No
+1	zoho	female	22	2	13.4167	Yes
+1	zoho	male	18	2	56.4958	No
+0	zoho	male	43	2	7.225	Yes
+0	gmail	male	78	2	26.55	No
+0	yahoo	male	70	2	13.5	No
+0	zoho	male	62	2	8.05	No
+1	zoho	female	18	2	7.7333	
+0	gmail	male	67	4	110.8833	Yes
+0	zoho	male	60	2	7.65	No
+1	gmail	female	36	4	227.525	Yes
+1	gmail	male	53	2	26.2875	No
+0	zoho	female	36	2	14.4542	Yes
+0	zoho	male	43	2	7.7417	
+0	zoho	male	44	4	7.8542	No
+0	yahoo	male	57	2	26	No
+1	yahoo	female	63	2	13.5	No
+1	gmail	male	60	2	26.2875	No
+1	gmail	female	40	2	151.55	No
+1	zoho	male	18	4	15.2458	Yes
+1	gmail	female	42	2	49.5042	Yes
+0	gmail	male	18	2	26.55	No
+1	gmail	male	66	4	52	No
+0	zoho	male	47	2	9.4833	No
+0	yahoo	male	70	2	13	No
+0	zoho	male	37	2	7.65	No
+1	gmail	female	56	2	227.525	Yes
+1	yahoo	female	45	2	10.5	No
+0	zoho	male	18	2	15.5	
+0	zoho	male	51	2	7.775	No
+1	yahoo	female	24	2	33	No
+0	zoho	male	35	4	7.0542	No
+0	yahoo	male	52	2	13	No
+0	yahoo	male	68	2	13	No
+1	gmail	male	45	4	53.1	No
+0	zoho	male	38	2	8.6625	No
+1	yahoo	female	48	1	21	No
+1	zoho	female	18	2	7.7375	
+0	yahoo	male	43	4	26	No
+0	zoho	female	43	4	7.925	No
+1	gmail	female	47	2	211.3375	No
+0	zoho	male	29	2	18.7875	Yes
+0	yahoo	male	18	2	0	No
+0	yahoo	male	41	2	13	No
+0	yahoo	male	41	2	13	No
+0	zoho	male		2	16.1	No
+0	zoho	female	66	4	34.375	No
+1	gmail	male	53	2	512.3292	Yes
+0	zoho	male	18	2	7.8958	No
+0	zoho	male	18	2	7.8958	No
+1	gmail	male	18	2	30	No
+0	gmail	male	54	4	78.85	No
+1	gmail	female	39	3	262.375	Yes
+0	zoho	male	42	4	16.1	No
+1	zoho	male	49	2	7.925	No
+0	gmail	male	88	4	71	No
+0	zoho	male	34	4	20.25	No
+1	yahoo	female	48	2	13	No
+0	gmail	male	37	4	53.1	No
+0	zoho	male	49	2	7.75	
+1	yahoo	female	22	4	23	No
+1	zoho	male	24	2	12.475	No
+0	zoho	male	51	2	9.5	No
+0	zoho	male	41	2	7.8958	No
+1	yahoo	female	66	4	65	No
+1	yahoo	male		4	14.5	No
+0	zoho	male	46	2	7.7958	No
+0	yahoo	male	36	2	11.5	No
+0	zoho	male	52	2	8.05	No
+1	gmail	female	51	2	86.5	No
+0	zoho	male	18	2	14.5	No
+0	zoho	male	59	2	7.125	No
+1	zoho	male	38	2	7.2292	Yes
+1	gmail	female	54	4	120	No
+0	zoho	male	34	2	7.775	No
+1	gmail	female	69	4	77.9583	No
+0	gmail	male	18	2	39.6	Yes
+0	zoho	female		2	7.75	
+0	zoho	male	18	4	24.15	
+0	zoho	male	50	2	8.3625	No
+0	zoho	male	42	2	9.5	No
+0	zoho	male	66	2	7.8542	No
+0	yahoo	female	75	2	10.5	No
+0	zoho	male	18	2	7.225	Yes
+1	yahoo	female	72	4	23	No
+0	zoho	male	36	2	7.75	No
+0	zoho	male	18	2	7.75	
+1	zoho	female	23	2	12.475	No
+0	zoho	male	18	2	7.7375	
+1	gmail	female	61	2	211.3375	No
+1	zoho	female	31	2	7.2292	Yes
+1	gmail	female	35	4	57	No
+0	gmail	male	47	2	30	No
+0	zoho	male	18	4	23.45	No
+0	zoho	male	43	2	7.05	No
+0	zoho	male	43	2	7.25	No
+1	zoho	female	36	2	7.4958	No
+0	zoho	male	26	4	29.125	
+1	zoho	male	19	4	20.575	No
+0	gmail	male	64	2	79.2	Yes
+0	zoho	male	18	2	7.75	
+0	yahoo	male	34	2	26	No
+0	zoho	female	18	0	69.55	No
+0	gmail	male	18	2	30.6958	Yes
+0	zoho	male	43	2	7.8958	No
+0	yahoo	male	57	2	13	No
+1	gmail	female	67	2	25.9292	No
+1	zoho	female	49	2	8.6833	No
+0	zoho	male	48	2	7.2292	Yes
+0	zoho	female	48	4	24.15	No
+0	yahoo	male	52	2	13	No
+1	yahoo	female	49	4	26.25	No
+1	gmail	male	29	4	120	No
+1	zoho	male		2	8.5167	Yes
+1	zoho	male	45	2	6.975	No
+0	zoho	male	49	2	7.775	No
+0	gmail	male	57	2	0	No
+0	zoho	female	36	2	7.775	No
+0	yahoo	male	57	2	13	No
+1	gmail	female	51	4	53.1	No
+0	zoho	male	44	2	7.8875	No
+0	zoho	male	57	2	24.15	No
+0	yahoo	male	53	2	10.5	No
+0	zoho	female	24	4	31.275	No
+0	zoho	male		2	8.05	No
+0	gmail	male	18	2	0	No
+0	zoho	female	41	2	7.925	No
+0	yahoo	male	49	4	37.0042	Yes
+0	zoho	male	61	2	6.45	No
+0	zoho	male	28	1	27.9	No
+1	gmail	female	70	4	93.5	No
+1	zoho	male	45	2	8.6625	No
+0	gmail	male	56	2	0	No
+1	zoho	female	45	2	12.475	No
+0	zoho	male	20	4	39.6875	No
+0	zoho	male	18	2	6.95	
+0	zoho	male	18	2	56.4958	No
+1	yahoo	male	19	2	37.0042	Yes
+1	zoho	male	18	2	7.75	
+1	gmail	female	80	2	80	
+1	zoho	female	33	4	14.4542	Yes
+1	yahoo	male		4	18.75	No
+0	zoho	male	18	2	7.2292	Yes
+0	zoho	male	41	2	7.8542	No
+0	zoho	male	36	2	8.3	No
+1	gmail	female	57	4	83.1583	Yes
+0	zoho	male	39	2	8.6625	No
+0	zoho	male	18	2	8.05	No
+1	zoho	male	50	2	56.4958	No
+1	gmail	male	18	2	29.7	Yes
+0	zoho	male	38	2	7.925	No
+0	yahoo	male	34	2	10.5	No
+1	gmail	female	48	2	31	Yes
+0	zoho	male		2	6.4375	Yes
+0	zoho	male	35	2	8.6625	No
+0	zoho	male	60	2	7.55	No
+0	zoho	male	18	0	69.55	No
+0	zoho	male	53	2	7.8958	Yes
+0	yahoo	male	46	2	33	No
+1	gmail	female	18	4	89.1042	Yes
+0	zoho	male	22	4	31.275	No
+0	zoho	male	92	2	7.775	No
+0	zoho	female	27	4	15.2458	Yes
+1	gmail	female	34	2	39.4	No
+0	yahoo	female	62	4	26	No
+1	zoho	female	36	2	9.35	No
+1	gmail	female	63	4	164.8667	No
+1	gmail	male	69	2	26.55	No
+1	zoho	female	42	2	19.2583	Yes
+0	zoho	male	18	2	7.2292	Yes
+0	zoho	male	59	3	14.1083	No
+0	yahoo	male	39	4	11.5	No
+1	gmail	female	66	2	25.9292	No
+0	zoho	female	18	0	69.55	No
+0	yahoo	male	42	2	13	No
+1	yahoo	female	60	2	13	No
+1	yahoo	female	45	4	13.8583	Yes
+0	gmail	male	49	2	50.4958	No
+0	zoho	male	18	2	9.5	No
+1	zoho	male	22	4	11.1333	No
+0	zoho	male	44	2	7.8958	No
+1	gmail	female	65	4	52.5542	No
+0	gmail	male	51	2	5	No
+0	zoho	male	65	2	9	No
+1	yahoo	female	46	4	24	Yes
+1	zoho	female	33	2	7.225	Yes
+0	zoho	male	38	2	9.8458	No
+0	zoho	male	37	2	7.8958	No
+0	zoho	male	18	2	7.8958	No
+1	gmail	female	74	2	83.1583	Yes
+1	yahoo	female	43	2	26	No
+0	zoho	male	51	2	7.8958	No
+0	zoho	female	40	2	10.5167	No
+0	yahoo	male	46	2	10.5	No
+0	zoho	male	43	2	7.05	No
+0	zoho	female	57	2	29.125	
+0	yahoo	male	45	2	13	No
+1	gmail	female	37	2	30	No
+0	zoho	female	18	4	23.45	No
+1	gmail	male	44	2	30	Yes
+0	zoho	male	50	2	7.75	
